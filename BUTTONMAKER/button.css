@@ -1,0 +1,27 @@
+.bgContainer {
+    background-color: #5c5c5c;
+}
+.heading {
+    color: white;
+
+}
+.card1-container {
+    background-color: white;
+    border-radius: 10px;
+}
+.inputbox {
+    width: 100%;
+}
+
+.font {
+    font-weight: 500;
+    font-family: roboto;
+    color: rgb(206, 62, 14);
+}
+.button {
+    background-color: rgb(17, 74, 187);
+    color: white;
+    border-radius: 8px;
+    padding:10px;
+    border-width: 0px;
+}
